@@ -1,5 +1,6 @@
 # Vrinda-Store-Data-Analysis 
 ABOUT THIS PROJECTS 👇👇👇👇
+
 AIM : The aim is to leverage Excel for comprehensive data analysis in the Vrinda Store project, extracting insights to drive informed business decisions, enhance efficiency, and optimize overall performance.
 
 Steps:Checked for null values. Created Age Group column. Created a Pivot Tables for different findings like Order Vs Sales, Sales Men vs Women, Order Age Vs Gender, Top 05 States, Order Status & Order by Channels. Formula used to create Age Group is =IF(E2>=50, "Senior", IF(E2>=30, "Adult", "Teenager").
